@@ -1,0 +1,159 @@
+[
+    {
+        "id": "0",
+        "name": "Ollie",
+        "flips": "0",
+        "rotations": "0"
+    },
+    {
+        "id": "1",
+        "name": "Fs 180",
+        "flips": "0",
+        "rotations": "180"
+    },
+    {
+        "id": "2",
+        "name": "Bs 180",
+        "flips": "0",
+        "rotations": "180"
+    },
+    {
+        "id": "3",
+        "name": "Kick Flip",
+        "flips": "1",
+        "rotations": "0"
+    },
+    {
+        "id": "4",
+        "name": "Heel Flip",
+        "flips": "1",
+        "rotations": "0"
+    },
+    {
+        "id": "5",
+        "name": "Varial Flip",
+        "flips": "1",
+        "rotations": "180"
+    },
+    {
+        "id": "6",
+        "name": "Varial Heel Flip",
+        "flips": "1",
+        "rotations": "180"
+    },
+    {
+        "id": "7",
+        "name": "Bs Flip",
+        "flips": "1",
+        "rotations": "180"
+    },
+    {
+        "id": "8",
+        "name": "Fs Flip",
+        "flips": "1",
+        "rotations": "180"
+    },
+    {
+        "id": "9",
+        "name": "Bs Heel Flip",
+        "flips": "1",
+        "rotations": "180"
+    },
+    {
+        "id": "10",
+        "name": "Fs Heel Flip",
+        "flips": "1",
+        "rotations": "180"
+    },
+    {
+        "id": "11",
+        "name": "Hard Flip",
+        "flips": "1",
+        "rotations": "180"
+    },
+    {
+        "id": "12",
+        "name": "Inward Heel Flip",
+        "flips": "1",
+        "rotations": "180"
+    },
+    {
+        "id": "13",
+        "name": "Tre Flip",
+        "flips": "1",
+        "rotations": "360"
+    },
+    {
+        "id": "14",
+        "name": "Laser Flip",
+        "flips": "1",
+        "rotations": "360"
+    },
+    {
+        "id": "15",
+        "name": "Bs 360 Flip",
+        "flips": "1",
+        "rotations": "360"
+    },
+    {
+        "id": "16",
+        "name": "Double Kick Flip",
+        "flips": "2",
+        "rotations": "0"
+    },
+    {
+        "id": "17",
+        "name": "Nightmare Flip",
+        "flips": "2",
+        "rotations": "180"
+    },
+    {
+        "id": "18",
+        "name": "Double Bs Flip",
+        "flips": "2",
+        "rotations": "180"
+    },
+    {
+        "id": "19",
+        "name": "Double Fs Flip",
+        "flips": "2",
+        "rotations": "180"
+    },
+    {
+        "id": "20",
+        "name": "Double Tre Flip",
+        "flips": "2",
+        "rotations": "360"
+    },
+    {
+        "id": "21",
+        "name": "Double Heel Flip",
+        "flips": "2",
+        "rotations": "0"
+    },
+    {
+        "id": "22",
+        "name": "Double Bs Heel Flip",
+        "flips": "2",
+        "rotations": "180"
+    },
+    {
+        "id": "23",
+        "name": "Ghetto Bird",
+        "flips": "1",
+        "rotations": "360"
+    },
+    {
+        "id": "24",
+        "name": "Big Flip",
+        "flips": "1",
+        "rotations": "360"
+    },    
+    {
+        "id": "25",
+        "name": "Big Heel",
+        "flips": "1",
+        "rotations": "360"
+    }
+    
+]
